@@ -3,6 +3,8 @@ layout: default
 title: Octobeer - The GitHub Kegerator Project
 ---
 
+# The GitHub Kegerator #
+
 ![full view](/images/2011-03-14/full.jpg)
 
 ![top view](/images/2011-03-14/top.jpg)
